@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="titulo_1">Mirada honesta</string>
+    <string name="titulo_2">Frutos BT21</string>
+    <string name="titulo_3">Alegría Goku</string>
+    <string name="titulo_4">Corazón de Cupido</string>
+    <string name="titulo_5">Entidad marina</string>
+
+    <string name="autor">Isabel S.V.</string>
+
+    <string name="fecha_1">15-03-2021</string>
+    <string name="fecha_2">06-09-2018</string>
+    <string name="fecha_3">09-08-2019</string>
+    <string name="fecha_4">22-05-2020</string>
+    <string name="fecha_5">07-09-2021</string>
+
+    <string name="descripcion_1">Ojo realista dibujado en escala de grises</string>
+    <string name="descripcion_2">Pintura donde hay un árbol con personas de BT21 colgados</string>
+    <string name="descripcion_3">Dibujo de Goku dibujado solo con líneas sin pintar</string>
+    <string name="descripcion_4">Dibujo de un corazón con alas</string>
+    <string name="descripcion_5">Dibujo de una chica celeste en un mundo celeste</string>
+
+    <string name="bn_avanzar">Siguiente</string>
+    <string name="bn_retroceder">Anterior</string>
+</resources>
